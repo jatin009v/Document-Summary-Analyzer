@@ -59,5 +59,3 @@ Frontend: http://localhost:5173
 - Backend: `npm run dev` in `server/`
 - Frontend: `npm run preview` in `client/`
 
-## Deployed Project
-Check out the live version here: [Deployed Link](https://document-summary-analyzer.vercel.app/)
